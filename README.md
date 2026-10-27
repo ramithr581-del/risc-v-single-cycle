@@ -45,3 +45,5 @@ The diagram below shows how the modules connect to form the single-cycle process
 ## Submission Workflow
 
 Submit your repository URL for this checkpoint through the course Google Form. The assignment handout explains how to configure and verify your repository.
+
+RISC-V assignment submission
